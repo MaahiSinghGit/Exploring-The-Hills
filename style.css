@@ -605,6 +605,9 @@ header .search-bar-container label:hover{
 .footer .credit span{
   color:var(--orange);
 }
+#git{
+  color:var(--orange);
+}
 
 
 
